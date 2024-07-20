@@ -1,6 +1,6 @@
 # CS_Lead_score
-Case Study Lead Scoring
-**Problem Statement:**
+
+**Case Study Lead Scoring Problem Statement:**
 
 X Education sells online courses to industry professionals. X Education needs help in selecting the most
 promising leads, i.e. the leads that are most likely to convert into paying customers.
